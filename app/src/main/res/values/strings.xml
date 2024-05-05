@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppMyDogCat</string>
+    <string name="ERROR_INTERNET_CONNECTION">Conexão à internet necessária para uso do aplicativo.</string>
+</resources>
